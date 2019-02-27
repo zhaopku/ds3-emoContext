@@ -1,0 +1,13 @@
+Building vocabularies for emo dataset
+99.95333529816288 % of samples <= 30
+Avg train length = 5.140116907358287, max length = 87
+99.93368700265252 % of samples <= 30
+Avg val length = 5.204133510167993, max length = 145
+99.96371552975326 % of samples <= 30
+Avg test length = 5.009433962264151, max length = 80
+Vocab: 24026
+Creating pretrained embeddings!
+Building training samples!
+OOV rate for train = 2.63%
+OOV rate for val = 2.77%
+OOV rate for test = 2.16%
