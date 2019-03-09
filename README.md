@@ -21,16 +21,15 @@
 :-------------------------:|:-------------------------:
 ![acc](acc.jpg)  |  ![f1](F1-Micro.jpg)
 
+    1. full model - weighted - elmo - glove - speaker embeddings - universal sentence encoder - new data - emoji2text”
+    2. full model - weighted - elmo - glove - speaker embeddings - universal sentence encoder - new data
+    3. full model - weighted - elmo - glove - speaker embeddings - universal sentence encoder
+    4. full model - weighted - elmo - glove - speaker embeddings
+    5. full model - weighted - elmo - glove
+    6. full model - weighted - elmo
+    7. full model - weighted
+    8. full model
 
-    1. full model
-    2. full model - weighted
-    3. full model - weighted - elmo
-    4. full model - weighted - elmo - glove
-    5. full model - weighted - elmo - glove - speaker embeddings
-    6. full model - weighted - elmo - glove - speaker embeddings - universal sentence encoder
-    7. full model - weighted - elmo - glove - speaker embeddings - universal sentence encoder - new data
-    8. full model - weighted - elmo - glove - speaker embeddings - universal sentence encoder - new data - emoji2text”
-    
 ## Contact
     Author: Zhao Meng
     Email: zhmeng@student.ethz.ch
